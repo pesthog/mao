@@ -1,5 +1,5 @@
 {
-    "spider":"https://gitee.com/CCSHCoder/APP/raw/master/custom_spider.jar",
+    "spider": "https://wuji888.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
     "sites":[
         {
             "key":"老鸭福利",
@@ -1238,18 +1238,7 @@
             "url":"https://www.8090g.cn/?url="
         }
     ],
-    "flags":[
-        "youku",
-        "qq",
-        "iqiyi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "tudou",
-        "pptv",
-        "mgtv",
-        "wasu"
-    ],
+"flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
     "ijk":[
         {
             "group":"软解码",
