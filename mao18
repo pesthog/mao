@@ -38,7 +38,9 @@
 {"key":"csp_appysv2_雪人影视","name":"雪人影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"https://zy.qd234.cn/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_益达影视","name":"益达影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_月色影视","name":"月色影视〔Z〕","type":3,"api":"csp_AppYsV2"    ,"searchable":1,"quickSearch":0,"filterable":1,"ext":"http://69ty.cc/mogai_api.php/v1.vod"}],
-
+"lives": [
+{"group": "redirect","channels": [
+{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3R5engud2VldGFpLmNuL210di96Yi50eHQ="]}]}],
 "parses": [
 {"name": "解析01","type": 1,"url": "https://vip.parwix.com:4433/player/?url="},
 {"name": "解析02","type": 1,"url": "https://vip.parwix.com:4433/player/?url="},
