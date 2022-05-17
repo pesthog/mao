@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@pesthog 
-xlc520
-/
-MaoTV
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-MaoTV/mao/220508.json
-@xlc520
-xlc520 猫影视
-…
-Latest commit 6e7f71d 8 days ago
- History
- 1 contributor
-163 lines (141 sloc)  15.7 KB
-   
-###
-
 
 {"sites": [
 {"key":"csp_xpath___在线之家","name":"0508","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
